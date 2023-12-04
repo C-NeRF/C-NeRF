@@ -1,0 +1,11 @@
+torch
+torchvision==0.13.0
+imageio
+imageio-ffmpeg
+matplotlib
+configargparse
+tensorboard>=2.0
+tqdm
+opencv-python
+open3d==0.17.0
+imageio==2.9.0

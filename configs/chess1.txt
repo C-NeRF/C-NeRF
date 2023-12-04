@@ -1,0 +1,16 @@
+expname = chess1
+basedir = ./logs
+datadir = ./data/chess1
+dataset_type = llff
+sequence = pre
+
+factor = 4
+llffhold = 8
+
+N_rand = 4096
+N_samples = 64
+N_importance = 128
+
+use_viewdirs = True
+raw_noise_std = 1e0
+
