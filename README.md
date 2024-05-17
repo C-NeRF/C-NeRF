@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 
 ## Download Dataset
- You can download the demo datasets from [drive](https://drive.google.com/file/d/1Qs235v4vgsVLRtH7AqGibtIJCJ_8ZzsE/view). Unzip the downloaded data to the project root dir in order to train. 
+ You can download the datasets from [drive](https://drive.google.com/file/d/1Qs235v4vgsVLRtH7AqGibtIJCJ_8ZzsE/view). Unzip the downloaded data to the project root dir in order to train. 
 
 
 ## Obtain CD Results
