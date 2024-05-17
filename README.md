@@ -14,8 +14,8 @@ pip install -r requirements.txt
  You can download the pre-trained models from [drive](https://drive.google.com/file/d/1rtmWgOIrOKVGO6ls3WGmQeaGCEEaifap/view?usp=sharing). Unzip the logs to the project root dir to save training time. 
 
 
-## Download Demo Dataset
- You can download the demo datasets from [drive](https://drive.google.com/file/d/11iEnLMk43oTx0CmMBofdkLmZNdnDDHJP/view). Unzip the downloaded data to the project root dir in order to train. 
+## Download Dataset
+ You can download the demo datasets from [drive](https://drive.google.com/file/d/1Qs235v4vgsVLRtH7AqGibtIJCJ_8ZzsE/view). Unzip the downloaded data to the project root dir in order to train. 
 
 
 ## Obtain CD Results
